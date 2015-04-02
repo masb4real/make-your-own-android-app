@@ -1,0 +1,5 @@
+C:\Users\MAHMUDA\AndroidStudioProjects\MamaFood\app\build\intermediates\classes\debug
+C:\Users\MAHMUDA\AndroidStudioProjects\MamaFood\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-04ee6149b9c11cddd7f15211b3434a6e10ed995c.jar
+C:\Users\MAHMUDA\AndroidStudioProjects\MamaFood\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-c0b223207f15e659eae2b1e56d9c073170e09490.jar
+C:\Users\MAHMUDA\AndroidStudioProjects\MamaFood\app\build\intermediates\pre-dexed\debug\classes-d45259ad8cd09741cbd13f3e54ecb3cfe9dcf7f2.jar
+C:\Users\MAHMUDA\AndroidStudioProjects\MamaFood\app\build\intermediates\pre-dexed\debug\classes-b7d926edf0dc889acbe86452703b641d33581b91.jar
