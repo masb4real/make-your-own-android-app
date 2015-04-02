@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/about"
+        android:icon="@drawable/ic_launcher"
+        android:title="About Mama Food"></item>
+
+    <item android:id="@+id/help"
+        android:title="Application Help"></item>
+
+</menu><!-- From: file:/C:/Users/MAHMUDA/AndroidStudioProjects/MamaFood/app/src/main/res/menu/food.xml -->
